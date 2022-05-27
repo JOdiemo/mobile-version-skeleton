@@ -1,0 +1,51 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+header {
+  font-family: tahoma;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 375px;
+  height: 100vh;
+  align-content: space-between;
+  min-height: 100%;
+  background-image: url(images/header-shapes\ mobile.png);
+}
+
+.Top {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.intro h1 {
+  font-family: tahoma;
+  text-align: left;
+  padding-left: 25px;
+
+  /* padding: 10px 20px 75px 50px; */
+}
+
+.details {
+  font-family: sans-serif;
+  padding-left: 25px;
+  padding-right: 10px;
+}
+
+.connect {
+  font-family: tahoma;
+  color: blue;
+  padding-left: 25px;
+}
+
+.connect-logo img {
+  padding-left: 25px;
+}
