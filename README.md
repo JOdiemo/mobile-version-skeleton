@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello Microverse
+# Portfolio - Jorum Odiemo
 
-> Creating linter and then displaying "Hello Microverse" using the h1 element.
+> Creating a skeleton mobile website of my portfolio
 > 
 
 
