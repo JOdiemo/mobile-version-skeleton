@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio - Jorum Odiemo
 
-> Description the project.
+> Creating a skeleton mobile website of my portfolio
+> 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS3
 
 ## Live Demo (if available)
 

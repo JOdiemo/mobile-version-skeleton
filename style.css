@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  align-items: center;
+  margin: 0;
+}
+
+.Top {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headline {
+  background-image: url("images/header-shapes\ mobile.png");
+  background-repeat: no-repeat;
+  padding-top: 40px;
+  height: 80vh;
+}
+
+.mainheader {
+  color: #091e42;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 52px;
+  margin-top: 100px;
+}
+
+.details {
+  color: #344563;
+  font-style: normal;
+  font-weight: normal;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0;
+}
+
+.social-link-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-left: 20px;
+}
+
+.social-link-heading,
+h2 {
+  padding-left: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.sociol-logo {
+  display: flex;
+  flex-direction: row;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+li {
+  float: left;
+  padding-left: 20px;
+}
+
+li:hover {
+  background-color: #091e42;
+}
