@@ -9,21 +9,9 @@ body {
   width: 100%;
   display: flex;
   flex-direction: row;
-}
-
-.headernav {
   display: flex;
-}
-
-.headernav img {
-  padding-top: 10px;
-}
-
-.menubutton {
-  display: flex;
+  justify-content: space-between;
   align-items: center;
-  cursor: pointer;
-  padding-left: 210px;
 }
 
 .headline {
